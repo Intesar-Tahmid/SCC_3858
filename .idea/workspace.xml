@@ -4,23 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b19c6f3f-90bf-4d24-be09-aa8ce5c26f9b" name="Changes" comment="">
+    <list default="true" id="b19c6f3f-90bf-4d24-be09-aa8ce5c26f9b" name="Changes" comment="Implemented Car Class">
+      <change afterPath="$PROJECT_DIR$/src/EngineFactory.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AC.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AC.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BodyDesign.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BodyDesign.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CarFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CarFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CarVariant.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CarVariant.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chesis.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chesis.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Color.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Color.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Engine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Engine.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MilitaryVehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MilitaryVehicle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PrivateCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PrivateCar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RacingCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RacingCar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SUV.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SUV.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Seat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Seat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tire.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tire.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +18,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -69,8 +57,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1692638466510</updated>
-      <workItem from="1692638466656" duration="988000" />
+      <workItem from="1692638466656" duration="2660000" />
     </task>
+    <task id="LOCAL-00001" summary="Implemented Car Class">
+      <created>1692639614341</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1692639614341</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -78,5 +74,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Implemented Car Class" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implemented Car Class" />
   </component>
 </project>
