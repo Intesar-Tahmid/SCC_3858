@@ -1,2 +1,2 @@
-package PACKAGE_NAME;public class Tire {
+public class Tire {
 }
