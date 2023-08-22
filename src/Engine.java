@@ -13,7 +13,7 @@ class CC1300 implements Engine {
 
     @Override
     public double EnginePrice() {
-        return 100000;
+        return 15000;
     }
 }
 
@@ -25,7 +25,7 @@ class CC1700 implements Engine {
 
     @Override
     public double EnginePrice() {
-        return 200000;
+        return 30000;
     }
 }
 
@@ -37,7 +37,7 @@ class CC1800 implements Engine {
 
     @Override
     public double EnginePrice() {
-        return 300000;
+        return 45000;
     }
 }
 
@@ -49,7 +49,7 @@ class CC2100 implements Engine {
 
     @Override
     public double EnginePrice() {
-        return 400000;
+        return 60000;
     }
 }
 
